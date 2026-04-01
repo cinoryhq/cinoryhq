@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🎬 Cinory
 
-<!--
-**cinoryhq/cinoryhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern way to organize movies and TV shows.
 
-Here are some ideas to get you started:
+Track what you watch, manage your favorites, and stay on top of your progress — all in a fast, clean, and premium experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ The idea
+
+Cinory was built to solve a simple problem:
+
+Keeping track of what you watch shouldn’t feel messy.
+
+Instead of scattered lists and forgotten shows, Cinory gives you a clear, structured, and intuitive way to organize your entire viewing experience.
+
+---
+
+## 🚀 Highlights
+
+- 🎯 Track movies and TV shows
+- ⭐ Manage your favorites
+- 📺 Follow episode progress
+- 🗓️ See what’s coming next
+- 🌍 Multi-language experience
+- ⚡ Mobile-first, fast, and intuitive
+
+---
+
+## 🌐 Website
+
+https://cinory.app
+
+---
+
+## 🧠 Vision
+
+Simple. Fast. Focused.
+
+Cinory is designed to be a companion — not a distraction — for people who love movies and TV shows.
