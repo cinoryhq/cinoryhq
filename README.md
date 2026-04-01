@@ -1,6 +1,6 @@
 # 🎬 Cinory
 
-A modern way to organize movies and TV shows.
+A modern way to organize and track movies and TV shows.
 
 Track what you watch, manage your favorites, and stay on top of your progress — all in a fast, clean, and premium experience.
 
@@ -38,3 +38,7 @@ https://cinory.app
 Simple. Fast. Focused.
 
 Cinory is designed to be a companion — not a distraction — for people who love movies and TV shows.
+
+---
+
+Made with a focus on simplicity, speed, and user experience.
